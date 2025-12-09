@@ -1,0 +1,5 @@
+m = int(input('Hãy nhập vào số đo ở đơn vị m:'))
+cm = m*100
+print(f'Vậy {m} m = {cm} cm')
+mm = cm*10
+print(f'Vậy {cm} cm hay {m} m = {mm} mm')
