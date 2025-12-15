@@ -3,4 +3,5 @@ b = int(input('Nhập vào chiều dài của hcn : '))
 P = ( a + b) *2
 S = a*b
 print('Chu vi của hcn là : ', P )
-print('Diện tích của hcn là :, S ')
+
+print('Diện tích của hcn là :', S )
