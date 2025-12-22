@@ -10,8 +10,9 @@ for i in range(n):
 
 
 for bai in ds_bai_hat:
-    
     print(bai.upper())
+    
+
 
 
 
