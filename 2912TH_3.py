@@ -1,0 +1,6 @@
+x = input('Nhap so nguyen thu nhat : ')
+y = input('Nhap so nguyen thu hai : ')
+print('x + y = ', x + y)
+print('x - y = ', x - y )
+print('x * y = ', x * y)
+print('x / y = ', x / y)
