@@ -1,5 +1,5 @@
-N = int(input('Hãy nhập vào một số tự nhiên N : '))
-if N%3==0 and N%2==0:
-    print('N là số chẵn chia hết cho 3')
-else:
-    print('N không phải là số chẵn chia hết cho 3')
+for i in range(1,100):
+    if i % 3 == 0 and i % 5 == 0 :
+        print('Cac so thoa man dieu kien la ')
+        print(i)
+    
